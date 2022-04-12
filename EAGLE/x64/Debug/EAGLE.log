@@ -1,0 +1,53 @@
+﻿  camera.cpp
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\camera.cpp(20,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\camera.cpp(23,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\camera.cpp(43,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\camera.cpp(49,14): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\camera.cpp(50,15): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\camera.cpp(56,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\camera.cpp(57,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  gameprocess.cpp
+  interface.cpp
+  lighting.cpp
+  performancecontrol.cpp
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\performancecontrol.cpp(14,17): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\performancecontrol.cpp(20,24): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+  renderloop.cpp
+  shaders.cpp
+  transformations.cpp
+  vector.cpp
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(26,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(27,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(30,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(31,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(47,11): warning C4101: 'c': unreferenced local variable
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(82,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(126,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(130,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(136,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(304,50): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(352,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(353,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(355,48): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(355,33): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(355,18): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(402,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(403,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(405,48): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(405,33): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(405,18): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(447,48): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(447,33): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(447,18): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(489,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(490,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(492,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(496,48): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(496,33): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(496,18): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(500,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(526,48): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(526,33): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\vector.cpp(526,18): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'freeglutd.lib'

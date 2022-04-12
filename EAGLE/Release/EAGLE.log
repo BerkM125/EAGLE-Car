@@ -1,0 +1,18 @@
+﻿  interface.cpp
+  Microsoft (R) Incremental Linker Version 14.30.30705.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  "/OUT:C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\Release\EAGLE.exe" /INCREMENTAL:NO "/LIBPATH:C:\Users\Berkan\Desktop\OpenGLRoot\External Resources\GLEW\lib\Release\Win32" "/LIBPATH:C:\Berkan\software\vcpkg\installed\\x86-windows\lib" "/LIBPATH:C:\Berkan\software\vcpkg\installed\\x86-windows\lib\manual-link" glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "C:\Berkan\software\vcpkg\installed\\x86-windows\lib\*.lib" /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\Release\EAGLE.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental "/LTCGOUT:Release\EAGLE.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\Release\EAGLE.lib" /MACHINE:X86 /SAFESEH:NO Release\camera.obj 
+  Release\gameprocess.obj 
+  Release\interface.obj 
+  Release\lighting.obj 
+  Release\performancecontrol.obj 
+  Release\renderloop.obj 
+  Release\shaders.obj 
+  Release\transformations.obj 
+  Release\vector.obj 
+  Generating code
+  0 of 587 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  EAGLE.vcxproj -> C:\Users\Berkan\Desktop\OpenGLRoot\EAGLE Game Workspace\EAGLE\Release\EAGLE.exe
